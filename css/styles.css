@@ -1,0 +1,60 @@
+
+#navbar1 {
+  color: white;
+      }
+      .navbar-nav .nav-link 
+       {
+        color: rgb(177, 176, 167);
+      }
+
+#palacio{
+    text-align: right; 
+     }
+
+
+#m1:hover {
+  color: white;
+}
+
+#m2{
+  color: rgb(8, 151, 8);
+}
+#m2:hover {
+  color: white;
+}
+
+#botontix {color: white;}
+#botontix {background-color: rgb(8, 151, 8);}
+
+
+
+#btnenviar {
+  color: white;
+}
+#btnenviar {
+  background-color: rgb(129, 194, 86);
+}
+    
+#footer{
+  color:white}
+
+#footer{
+background-image: linear-gradient(
+90deg,
+hsl(197deg 42% 18%) 0%,
+hsl(198deg 44% 19%) 14%,
+hsl(198deg 46% 20%) 28%,
+hsl(199deg 48% 21%) 41%,
+hsl(199deg 50% 22%) 53%,
+hsl(199deg 53% 23%) 65%,
+hsl(200deg 55% 24%) 76%,
+hsl(200deg 57% 25%) 85%,
+hsl(200deg 59% 26%) 94%,
+hsl(200deg 61% 27%) 100%
+);
+}
+
+#fo {
+  margin: 2%;
+}
+
